@@ -1,1 +1,1 @@
-# datasciencecoursera
+# Exploratory Analysis Project 1
